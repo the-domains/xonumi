@@ -1,0 +1,28 @@
+name: xonumi
+favicon: null
+layout_spectrum: 0.035353336250409484
+typography_spectrum: 0.012297538109123707
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4630671674385667
+  lightness: 0.47088033123873174
+  saturation: 0.3543802599888295
+  rhythmicContrast: 0.5364430078770965
+purpose: []
