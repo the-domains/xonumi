@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[xonumi]]></title>
         <description><![CDATA[xonumi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/xonumi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 11:51:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 12:02:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/xonumi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <link>undefined5c894cd9-a1bc-4eb4-8fc1-a0bfa7cea752/index.html</link>
+            <title><![CDATA[xonumi is alife]]></title>
+            <description><![CDATA[<article><h1>xonumi is alife</h1><p>Let's see what we can now experience . </p></article>]]></description>
+            <link>https://thegrid.ai/xonumi/5c894cd9-a1bc-4eb4-8fc1-a0bfa7cea752/index.html</link>
             <guid isPermaLink="false">5c894cd9-a1bc-4eb4-8fc1-a0bfa7cea752</guid>
-            <pubDate>Mon, 04 Jan 2016 11:50:57 GMT</pubDate>
+            <pubDate>Mon, 04 Jan 2016 12:01:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
