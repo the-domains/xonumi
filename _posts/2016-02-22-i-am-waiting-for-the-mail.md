@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-22T07:02:20.108Z'
-dateModified: '2016-02-22T07:02:08.145Z'
+datePublished: '2016-02-22T07:55:04.255Z'
+dateModified: '2016-02-22T07:55:03.834Z'
 title: I am waiting for the mail
 author: []
+sourcePath: _posts/2016-02-22-i-am-waiting-for-the-mail.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-22-i-am-waiting-for-the-mail.md
-published: true
 url: i-am-waiting-for-the-mail/index.html
 _type: Article
 
