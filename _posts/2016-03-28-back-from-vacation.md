@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-28T21:07:03.688Z'
-dateModified: '2016-03-28T21:06:49.961Z'
+description: and now checking the systems
+datePublished: '2016-03-28T21:11:30.938Z'
+dateModified: '2016-03-28T21:10:12.739Z'
 title: back from vacation
 author: []
+sourcePath: _posts/2016-03-28-back-from-vacation.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-28-back-from-vacation.md
-published: true
 url: back-from-vacation/index.html
 _type: Article
 
