@@ -4,7 +4,7 @@
         <description><![CDATA[the other side....]]></description>
         <link>http://xonumi.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 15:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 18:13:12 GMT</lastBuildDate>
         <atom:link href="http://xonumi.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[xonumi is alife]]></title>
@@ -12,6 +12,13 @@
             <link>http://xonumi.com/5c894cd9-a1bc-4eb4-8fc1-a0bfa7cea752/index.html</link>
             <guid isPermaLink="false">5c894cd9-a1bc-4eb4-8fc1-a0bfa7cea752</guid>
             <pubDate>Thu, 18 Feb 2016 11:00:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prince - RIP]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7974a5fa-f812-4855-ad6b-ff9f9344607e.gif">]]></description>
+            <link>http://xonumi.com/prince-rip/index.html</link>
+            <guid isPermaLink="false">3f867c66-718a-4e79-8afa-37c4914f479d</guid>
+            <pubDate>Mon, 25 Apr 2016 18:13:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[!]]></title>
@@ -68,13 +75,6 @@
             <link>http://xonumi.com/2ac24293-9cfb-41ac-987a-66b1b77227c6/index.html</link>
             <guid isPermaLink="false">2ac24293-9cfb-41ac-987a-66b1b77227c6</guid>
             <pubDate>Tue, 08 Mar 2016 12:51:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I am waiting for the mail]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ce68f1f-62df-4195-829c-61dfa33be849.jpg">]]></description>
-            <link>http://xonumi.com/i-am-waiting-for-the-mail/index.html</link>
-            <guid isPermaLink="false">0e49e67d-9b8b-47b4-9c46-c7fbc0482996</guid>
-            <pubDate>Sun, 28 Feb 2016 20:36:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
