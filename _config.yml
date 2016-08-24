@@ -1,8 +1,34 @@
-name: xonumi
-favicon: null
-layout_spectrum: 0.93885
 typography_spectrum: 0.7437344
-title: the other side....
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0
+  lightness: 0
+  saturation: 0.8125
+  rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.93885
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: xonumi
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Hui
+    id: 9feb226e-3cf1-46ed-a34b-9eda9d325000
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +41,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0
-  lightness: 0
-  saturation: 0.8125
-  rhythmicContrast: 0.75
+title: the other side....
 purpose: []
